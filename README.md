@@ -4,7 +4,7 @@ Random encounters are disabled, Exp Jewels do nothing and Fast Movemenet Speed i
 
 Some battles may look like random encounters but they are not, they are events, an example of this are the battles on the Uzra.
 
-This will only work on the Mac version of the game, in theory you could patch the iOS version of the game aswell by modifing the script to point to the IPA (you are going to have to extract the app from your device) and you would need to sideload it back to your device, I haven't tested it, if anyone diecides to do it then let me know if it works.
+This will only work on the Mac version of the game, in theory you could patch the iOS version of the game aswell by modifing the script to point to the IPA (you are going to have to extract the app from your device) and you would need to sideload it back to your device, I haven't tested it, if anyone decides to do it then let me know if it works.
 
 ## Requierments
 
