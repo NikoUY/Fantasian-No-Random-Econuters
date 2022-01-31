@@ -1,6 +1,6 @@
 # Fantasian Challange
 
-Random encounters are disabled, Exp Jewels do nothing and Fast Movemenet Speed is enabled.
+Random encounters are disabled, Exp Jewels do nothing and Fast Movement Speed is enabled.
 
 Some battles may look like random encounters but they are not, they are events, an example of this are the battles on the Uzra.
 
